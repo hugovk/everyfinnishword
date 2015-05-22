@@ -1,8 +1,14 @@
 # Every Finnish Word
 
-Words from the [Institute for the Languages of Finland](http://kaino.kotus.fi/sanat/nykysuomi/).
+Words from the [Institute for the Languages of Finland](http://kaino.kotus.fi/sanat/nykysuomi/) (Kotimaisten kielten keskus in Finnish, or KOTUS).
 
-Here's their description in Finnish:
+The [kotus-sanalista_v1](/kotus-sanalista_v1) directory contains the original files from KOTUS. The file [kaikkisanat.txt](kaikkisanat.txt) contains a plaintext list of the words from the [XML file](kotus-sanalista_v1/kotus-sanalista_v1.xml), with suffixes (e.g. -aatteinen) and duplicates removed. This plaintext file is used by [@kaikkisanat](https://twitter.com/kaikkisanat) on Twitter.
+
+Files are licensed under GNU LGPL (Lesser General Public License), EUPL v.1.1 (European Union Public Licence) and CC Attribution 3.0 Unported.
+
+Here's the original KOTUS description:
+
+---
 
 ## KOTIMAISTEN KIELTEN KESKUKSEN NYKYSUOMEN SANALISTA
 
