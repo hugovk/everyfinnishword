@@ -441,10 +441,8 @@ ahtaalle
 ahtaasti
 ahtauma
 ahtaus
-ahtaus
 ahtausliike
 ahtaustyö
-ahtauttaa
 ahtauttaa
 ahtautua
 ahtautuma
@@ -499,7 +497,6 @@ aiheutua
 aiheutus
 aihio
 aijai
-aika
 aika
 aika-ajo
 aikaansaada
@@ -597,7 +594,6 @@ ailahtaa
 ailahtelu
 ailakki
 aimo
-aina
 aina
 ainainen
 ainaiseksi
@@ -1217,7 +1213,6 @@ albiino
 albinismi
 albumi
 ale
-ale
 alehalli
 alehinta
 alekkain
@@ -1600,7 +1595,6 @@ alletusten
 alleviivata
 alleviivaus
 alli
-alli
 allianssi
 alligaattori
 allikko
@@ -1643,8 +1637,6 @@ alokasaste
 alokasmainen
 aloke
 alpakka
-alpakka
-alpakkainen
 alpakkainen
 alpakkalusikka
 alpi
@@ -1951,7 +1943,6 @@ ammoniumkloridi
 ammottaa
 ammu
 ammua
-ammunta
 ammunta
 ammus
 ammuskelija
@@ -2582,7 +2573,6 @@ arkityyli
 arkiuupumus
 arkivaate
 arkiviikko
-arkki
 arkki
 arkki-
 arkkiatri
@@ -3425,7 +3415,6 @@ aumakatto
 aunus
 au pair -tyttö
 aura
-aura
 aurakulma
 aurakäännös
 aurankurki
@@ -3897,7 +3886,6 @@ azeri
 azerin kieli
 baana
 baari
-baari
 baariapulainen
 baarijakkara
 baarikaappi
@@ -3979,7 +3967,6 @@ banderolli
 bandiitti
 banjo
 banketti
-banketti
 bantu
 bantukieli
 bantustan
@@ -4018,7 +4005,6 @@ basaari
 basaltti
 baseball
 basenji
-basilika
 basilika
 basilli
 basisti
@@ -4095,7 +4081,6 @@ bensiininkulutus
 bensiinisäiliö
 bensiinitankki
 bentsoehappo
-berberi
 berberi
 berliininmakkara
 berliininmunkki
@@ -4285,7 +4270,6 @@ boikotti
 boileri
 bokseri
 bokserimoottori
-boksi
 boksi
 boksinahka
 bolero
@@ -4666,7 +4650,6 @@ deismi
 deisti
 deistinen
 deka-
-dekaani
 dekaani
 dekadenssi
 dekadentisti
@@ -6268,7 +6251,6 @@ ennätysnopeus
 ennätyssato
 ennätystulos
 eno
-eno
 ensemble
 ensi
 ensiapu
@@ -6347,8 +6329,6 @@ entisyys
 entisöidä
 entiteetti
 entrata
-entrata
-entraus
 entraus
 entrecôte
 entropia
@@ -6945,7 +6925,6 @@ eritoten
 erittelijä
 erittely
 erittyä
-erittäin
 erittäin
 erittäinkin
 erittää
@@ -7786,7 +7765,6 @@ feministinen
 feministisesti
 femto-
 fenkoli
-fenkoli
 fennismi
 fennisti
 fennistiikka
@@ -8171,7 +8149,6 @@ frigidi
 frigiditeetti
 frigidiys
 friikki
-friisi
 friisi
 friisiläinen
 frikadelli
@@ -8721,7 +8698,6 @@ haastemies
 haasteottelu
 haastetodistus
 haava
-haava
 haavainen
 haavakko
 haavakuume
@@ -8801,7 +8777,6 @@ haikara
 haikea
 haikeasti
 haikeus
-haiku
 haiku
 hailakka
 hailakkuus
@@ -8936,7 +8911,6 @@ hajuvesi
 hajuvesipullo
 hajuvirhe
 haka
-haka
 hakaliitos
 hakalukko
 hakamaa
@@ -9022,7 +8996,6 @@ halailla
 halailu
 halaista
 halata
-halata
 halatti
 halaus
 halava
@@ -9076,7 +9049,6 @@ hallavahinko
 hallavuosi
 hallayö
 halleluja
-halli
 halli
 halliennätys
 hallikauppa
@@ -9941,7 +9913,6 @@ haukkapala
 haukkaus
 haukkoa
 haukku
-haukku
 haukkua
 haukkumakirje
 haukkumanimi
@@ -10069,7 +10040,6 @@ havupuuvaltainen
 havusammal
 havuseppele
 havuttaa
-he
 he
 heavy
 heavyrock
@@ -10352,7 +10322,6 @@ hekumallinen
 hekumallisesti
 hekumallisuus
 hekumoida
-hela
 hela
 helakanpunainen
 helakanvärinen
@@ -11689,7 +11658,6 @@ hiostus
 hiostuttaa
 hiota
 hiottaa
-hiottaa
 hioutua
 hip
 hipaista
@@ -11887,7 +11855,6 @@ hitsauspuikko
 hitsaussauma
 hitsaussuojain
 hitsautua
-hitsi
 hitsi
 hitti
 hitto
@@ -12139,8 +12106,6 @@ holtittomasti
 holtittomuus
 holtti
 holvata
-holvata
-holvaus
 holvaus
 holvi
 holvikaari
@@ -13300,7 +13265,6 @@ hyllymetri
 hyllyopaste
 hyllypaperi
 hyllystö
-hyllyttää
 hyllyttää
 hyllyä
 hylsy
@@ -14950,7 +14914,6 @@ ilmeikäs
 ilmeillä
 ilmeily
 ilmeinen
-ilmeinen
 ilmeisesti
 ilmeittää
 ilmelihas
@@ -15815,8 +15778,6 @@ islanti
 islantilainen
 ismi
 iso
-iso
-iso-
 iso-
 isobaari
 isohirvenjäkälä
@@ -15861,7 +15822,6 @@ isosisko
 isosti
 isosuinen
 isota
-isota
 isotaivot
 isotella
 isotermi
@@ -15879,7 +15839,6 @@ isoviha
 isoympyrä
 isoäiti
 israelilainen
-issikka
 issikka
 istahtaa
 istua
@@ -16297,7 +16256,6 @@ jahkailu
 jahkata
 jahnata
 jahti
-jahti
 jahtimakkara
 jahtivouti
 jakaa
@@ -16324,7 +16282,6 @@ jakeluporras
 jakelutie
 jakeluverkko
 jakkara
-jakki
 jakki
 jakkihärkä
 jakkipuu
@@ -16851,7 +16808,6 @@ joisto
 joiunta
 jojo
 jojolaihduttaminen
-joka
 joka
 joka-aamuinen
 joka ainoa
@@ -17494,8 +17450,6 @@ junkkari
 junnata
 junnu
 juntata
-juntata
-juntta
 juntta
 junttapulla
 junttaus
@@ -17729,7 +17683,6 @@ juurettomuus
 juureva
 juurevuus
 juuri
-juuri
 juuria
 juuriartisokka
 juurieläin
@@ -17825,7 +17778,6 @@ juutalaisviha
 juutalaisväestö
 juutas
 juutti
-juutti
 juuttikangas
 juuttimatto
 juuttisäkki
@@ -17911,8 +17863,6 @@ jyrähtely
 jyrähtää
 jyrätä
 jyräys
-jyräys
-jyräyttää
 jyräyttää
 jyske
 jyskinä
@@ -18812,7 +18762,6 @@ kaarevateräinen
 kaarevuus
 kaarevuussäde
 kaari
-kaari
 kaariaste
 kaarihitsaus
 kaariholvi
@@ -19266,7 +19215,6 @@ kaipailla
 kaipaus
 kaipuu
 kaira
-kaira
 kairanreikä
 kairanterä
 kairata
@@ -19286,7 +19234,6 @@ kaistapäinen
 kaistapää
 kaistaviiva
 kait
-kaita
 kaita
 kaitaelokuva
 kaitafilmaaja
@@ -19809,7 +19756,6 @@ kalkkeuma
 kalkkeutua
 kalkkeutuma
 kalkki
-kalkki
 kalkkihiekkatiili
 kalkkijauhe
 kalkkikaivos
@@ -19889,10 +19835,8 @@ kallis
 kallisarvoinen
 kallispalkkainen
 kallistaa
-kallistaa
 kallistella
 kallistelu
-kallistua
 kallistua
 kallistuma
 kallistus
@@ -20205,7 +20149,6 @@ kanervatyyppi
 kanervikko
 kanervisto
 kangas
-kangas
 kangashapero
 kangashumus
 kangaskansi
@@ -20249,7 +20192,6 @@ kangistaa
 kangistua
 kangistuttaa
 kani
-kani
 kaniini
 kaniinirotu
 kanisteri
@@ -20261,7 +20203,6 @@ kankaankutoja
 kankaanpainaja
 kankaanpainanta
 kankaanpala
-kankainen
 kankainen
 kankare
 kankaremaa
@@ -20278,7 +20219,6 @@ kankiteräs
 kankku
 kankkunen
 kankuri
-kanna
 kanna
 kannabis
 kannakselainen
@@ -20339,7 +20279,6 @@ kannullinen
 kannunvalaja
 kannunvalanta
 kannurusto
-kannus
 kannus
 kannuspyörä
 kannusruoho
@@ -20686,12 +20625,10 @@ kantelukirjelmä
 kantelupukki
 kantio
 kanto
-kanto
 kantoaalto
 kantoaika
 kantohihna
 kantohinta
-kantoinen
 kantoinen
 kantoisuus
 kantojuhta
@@ -20816,8 +20753,6 @@ kapoittain
 kapokki
 kapokkipuu
 kappa
-kappa
-kappa
 kappalainen
 kappale
 kappalehinta
@@ -20873,7 +20808,6 @@ karahtaa
 karahteerata
 karahvi
 karahviviini
-karaista
 karaista
 karaistua
 karaisu
@@ -21243,10 +21177,8 @@ karski
 karskisti
 karskius
 karsta
-karsta
 karstaaja
 karstaamo
-karstaantua
 karstaantua
 karstainen
 karstakone
@@ -21256,7 +21188,6 @@ karstasammal
 karstata
 karstaus
 karstauskone
-karstautua
 karstautua
 karstavilla
 karsti
@@ -21389,7 +21320,6 @@ karvata
 karvatukko
 karvatuppi
 karvaturri
-karvaus
 karvaus
 karve
 karviainen
@@ -21532,7 +21462,6 @@ kastetilaisuus
 kastetodistus
 kastetoimitus
 kastevesi
-kasti
 kasti
 kastijako
 kastikas
@@ -21850,7 +21779,6 @@ katkeruus
 katketa
 katki
 katkismus
-katko
 katko
 katkoa
 katkoja
@@ -22861,7 +22789,6 @@ kekseliäisyys
 kekseliäs
 kekseliäästi
 keksi
-keksi
 keksijä
 keksijänero
 keksijänoikeus
@@ -22981,8 +22908,6 @@ kellotaajuus
 kellotapuli
 kellotaulu
 kellotorni
-kellottaa
-kellottaa
 kellottaa
 kellua
 kelluke
@@ -23245,10 +23170,8 @@ kerhonohjaaja
 kerhotoiminta
 kerinpuut
 kerintä
-kerintä
 keripukki
 keritsimet
-keritä
 keritä
 keriytyä
 keriä
@@ -23308,7 +23231,6 @@ kerrannaisyksikkö
 kerrassaan
 kerrasto
 kerrata
-kerroin
 kerroin
 kerroksellinen
 kerroksellisuus
@@ -23693,7 +23615,6 @@ keskuudessa
 keskuudesta
 keskuuteen
 kessu
-kessu
 kessutella
 kessuttaa
 kesti
@@ -23883,7 +23804,6 @@ keto
 ketoneilikka
 ketoni
 keto-orvokki
-ketoosi
 ketoosi
 ketsi
 ketsuppi
@@ -24413,7 +24333,6 @@ kieunta
 kievari
 kihahdus
 kihahtaa
-kihahtaa
 kihara
 kiharaan
 kiharainen
@@ -24747,7 +24666,6 @@ kiipimäjalka
 kiirastorstai
 kiirastuli
 kiire
-kiire
 kiireapulainen
 kiireellinen
 kiireellisesti
@@ -24855,7 +24773,6 @@ kikka
 kikkailla
 kikkailu
 kikkara
-kikkara
 kikkeli
 kikpapu
 kiksauttaa
@@ -24906,7 +24823,6 @@ killitellä
 killittää
 killua
 killutin
-kilo
 kilo
 kilogramma
 kilohaili
@@ -25034,7 +24950,6 @@ kiltisti
 kiltsi
 kiltteys
 kiltti
-kiltti
 kilttiys
 kilu
 kilvan
@@ -25115,7 +25030,6 @@ kimputus
 kimröökki
 kimuli
 kimurantti
-kina
 kina
 kinailla
 kinailu
@@ -25763,7 +25677,6 @@ kiskonta
 kiskopari
 kiskotella
 kiskottaa
-kiskottaa
 kiskottelu
 kiskotus
 kiskoutua
@@ -25864,7 +25777,6 @@ kitsastella
 kitsastelu
 kitsaus
 kitsch
-kitsi
 kitsi
 kittaus
 kitti
@@ -26323,7 +26235,6 @@ kohahtaa
 kohaus
 kohautella
 kohauttaa
-kohauttaa
 kohautus
 kohdakkain
 kohdakkoin
@@ -26413,7 +26324,6 @@ kohouma
 kohoutuma
 kohoventtiili
 kohta
-kohta
 kohtaamispaikka
 kohtaan
 kohtalainen
@@ -26468,7 +26378,6 @@ kohu
 kohuta
 kohva
 kohvajää
-koi
 koi
 koikkelehtia
 koillinen
@@ -26624,13 +26533,10 @@ kokkaus
 kokkeli
 kokkelipiimä
 kokki
-kokki
-kokko
 kokko
 kokkojuhla
 kokkotuli
 kokkovalkea
-koko
 koko
 kokoaja
 kokoamiskone
@@ -26802,7 +26708,6 @@ kolikkoautomaatti
 kolikkokukkaro
 kolikkopuhelin
 kolina
-kolina
 kolista
 kolistaa
 kolistella
@@ -26810,9 +26715,7 @@ kolisuttaa
 kolja
 koljatti
 kolkata
-kolkata
 kolke
-kolkka
 kolkka
 kolkkaa
 kolkkakala
@@ -26846,7 +26749,6 @@ kollektivisti
 kollektivistinen
 kollektivoida
 kollektori
-kolli
 kolli
 kollikissa
 kollo
@@ -27460,8 +27362,6 @@ kontrollointi
 konttailla
 konttaus
 kontti
-kontti
-kontti
 konttialus
 konttilaiva
 konttiliikenne
@@ -27592,7 +27492,6 @@ koppavuus
 koppelo
 koppero
 koppi
-koppi
 koppilyönti
 koppisiemeninen
 koppura
@@ -27605,10 +27504,8 @@ kopsahdus
 kopsahtaa
 kopsata
 kopsaus
-kopsaus
 kopsauttaa
 kopse
-kopsu
 kopsu
 kopteri
 kopti
@@ -27639,7 +27536,6 @@ korallinen
 koralliriutta
 korallisaari
 korallisammal
-korea
 korea
 korealainen
 korean kieli
@@ -27919,7 +27815,6 @@ korporaatio
 korporatiivinen
 korporativismi
 korppi
-korppi
 korppikotka
 korppu
 korppujauhe
@@ -28197,7 +28092,6 @@ kostonhimoinen
 kostopolitiikka
 kostotoimi
 kostua
-kostua
 kostuke
 kostute
 kostutin
@@ -28398,7 +28292,6 @@ kotkaus
 kotkottaa
 kotkotus
 kotletti
-koto
 koto
 kotoa
 kotoinen
@@ -28919,7 +28812,6 @@ kroppa
 krossi
 krossipyörä
 krouvi
-krouvi
 kruksata
 kruksi
 krumeluuri
@@ -29302,7 +29194,6 @@ kukonpoikanen
 kuksa
 kukunta
 kukuttaa
-kulahtaa
 kulahtaa
 kulakki
 kulauksittain
@@ -29697,7 +29588,6 @@ kumartua
 kumaruus
 kumaus
 kumauttaa
-kumauttaa
 kumea
 kumeasti
 kumi
@@ -29720,7 +29610,6 @@ kumiletku
 kumiliima
 kumiluoti
 kumimatto
-kumina
 kumina
 kuminauha
 kuminauhatwist
@@ -29836,7 +29725,6 @@ kumpuilla
 kumpuinen
 kumpupilvi
 kumpusuo
-kumu
 kumu
 kumulaatio
 kumulatiivinen
@@ -30056,7 +29944,6 @@ kuoha
 kuohahdella
 kuohahtaa
 kuohari
-kuohari
 kuohia
 kuohilas
 kuohinta
@@ -30211,7 +30098,6 @@ kuorettua
 kuorettuma
 kuoreutua
 kuoreutuma
-kuori
 kuori
 kuoria
 kuoriainen
@@ -30486,7 +30372,6 @@ kurkistusneuvottelu
 kurkkailla
 kurkkia
 kurkku
-kurkku
 kurkkukaramelli
 kurkkukasvi
 kurkkukipu
@@ -30608,7 +30493,6 @@ kuskipukki
 kuskus
 kussa
 kusta
-kusta
 kustanne
 kustannus
 kustannusarvio
@@ -30645,8 +30529,6 @@ kuteille
 kuteinen
 kuteloida
 kuten
-kuti
-kuti
 kuti
 kutiaa
 kutina
@@ -30705,7 +30587,6 @@ kutsuohjaus
 kutsuttaa
 kutsuvieras
 kutsuääni
-kutteri
 kutteri
 kutterinpuru
 kuttu
@@ -30850,9 +30731,7 @@ kuulovika
 kuulovirhe
 kuultaa
 kuultava
-kuultava
 kuultavasti
-kuultavuus
 kuultavuus
 kuulto
 kuultokudos
@@ -30993,9 +30872,7 @@ kuunvaihde
 kuunvaihe
 kuunvalo
 kuupallinen
-kuupallinen
 kuuperä
-kuuppa
 kuuppa
 kuura
 kuurainen
@@ -31003,9 +30880,7 @@ kuuraketti
 kuuraparta
 kuurapartainen
 kuurata
-kuurata
 kuuraus
-kuuri
 kuuri
 kuuria
 kuurilainen
@@ -31013,7 +30888,6 @@ kuurna
 kuurnita
 kuurnittaa
 kuurnitus
-kuuro
 kuuro
 kuuroittain
 kuuroittainen
@@ -31044,14 +30918,12 @@ kuusenneulasnahikas
 kuusennäre
 kuusettua
 kuusi
-kuusi
 kuusiaita
 kuusihalko
 kuusihenkinen
 kuusijuhla
 kuusikanta
 kuusikerroksinen
-kuusikko
 kuusikko
 kuusikuinen
 kuusikulmainen
@@ -31069,7 +30941,6 @@ kuusimitta
 kuusinen
 kuusinkertainen
 kuusinumeroinen
-kuusio
 kuusio
 kuusiokanta
 kuusiokantainen
@@ -31134,7 +31005,6 @@ kuuton
 kuutonen
 kuutosluokka
 kuutosmaa
-kuutti
 kuutti
 kuu-ukko
 kuva
@@ -31297,7 +31167,6 @@ kvanttikemia
 kvanttimekaniikka
 kvanttiteoria
 kvanttiutua
-kvarkki
 kvarkki
 kvartetti
 kvartettilaulu
@@ -31580,7 +31449,6 @@ kymmen-
 kymmenen
 kymmenennes
 kymmenentuhatta
-kymmenes
 kymmenes
 kymmenesluokkalainen
 kymmenesosa
@@ -31881,7 +31749,6 @@ kyynärvarsi
 kyynärä
 kyynäräkeppi
 kyyppari
-kyyppi
 kyyppi
 kyyristellä
 kyyristely
@@ -32731,7 +32598,6 @@ kölillinen
 kölivene
 kölivesi
 kölli
-kölli
 köllikkä
 köllinimi
 köllähtää
@@ -32771,7 +32637,6 @@ körttiläisyys
 körttipuku
 körötellä
 köröttää
-kössi
 kössi
 köydenjatko
 köydenpunonta
@@ -32923,7 +32788,6 @@ laakasäilö
 laakatuli
 laakea
 laakeri
-laakeri
 laakeriholkki
 laakerikasvi
 laakerikitka
@@ -32938,14 +32802,12 @@ laakeripuu
 laakeriseppele
 laakeriöljy
 laakeroida
-laakeroida
 laakerointi
 laaki
 laakio
 laakiomaa
 laakso
 laaksopenger
-laama
 laama
 laamanni
 laamannikunta
@@ -33040,7 +32902,6 @@ labradoriitti
 labradorinnoutaja
 labyrintti
 ladata
-ladata
 ladella
 ladelma
 ladonta
@@ -33127,7 +32988,6 @@ lahovika
 lahovikainen
 lahovikaisuus
 lahtari
-lahti
 lahti
 lahtipenkki
 lahtivalas
@@ -33374,7 +33234,6 @@ laitto
 laittomasti
 laittomuus
 laituri
-laituri
 laituripaikka
 laituriportaat
 laituritikkaat
@@ -33490,14 +33349,12 @@ lakastua
 lakastumistauti
 lakastuttaa
 lakata
-lakata
 lakea
 lakeeri
 lakeerinahka
 lakeija
 lakeinen
 lakeus
-laki
 laki
 lakialoite
 lakiasia
@@ -33530,9 +33387,6 @@ lakittaa
 lakitupa
 lakivaliokunta
 lakka
-lakka
-lakka
-lakkaamaton
 lakkaamaton
 lakkaamatta
 lakkabensiini
@@ -33547,7 +33401,6 @@ lakkapää
 lakkasinetti
 lakkatyö
 lakkaus
-lakkauttaa
 lakkauttaa
 lakkautus
 lakkautuspalkka
@@ -33615,7 +33468,6 @@ laku
 lallatella
 lallattaa
 lallukka
-lama
 lama
 lamaan
 lamaannus
@@ -33981,9 +33833,7 @@ lapsuusvuosi
 lapuanliike
 LA-puhelin
 laputtaa
-laputtaa
 largo
-lari
 lari
 lasagne
 lasagnelevy
@@ -34410,7 +34260,6 @@ laudoittaja
 laudoitus
 laueta
 lauha
-lauha
 lauhde
 lauhdevesi
 lauhdutin
@@ -34438,7 +34287,6 @@ laukata
 laukaus
 laukaussarja
 laukaustenvaihto
-laukka
 laukka
 laukka-askel
 laukkahyppy
@@ -34811,7 +34659,6 @@ leija
 leijailla
 leijailu
 leijata
-leijata
 leijona
 leijonahäkki
 leijonalippu
@@ -34950,8 +34797,6 @@ leimasintyyny
 leimasinväri
 leimata
 leimaus
-leimaus
-leimauttaa
 leimauttaa
 leimautua
 leimavero
@@ -35190,7 +35035,6 @@ lennätys
 lenseä
 lentely
 lentis
-lento
 lento
 lentoaika
 lentoambulanssi
@@ -35564,7 +35408,6 @@ levähdys
 levähdysalue
 levähdyspaikka
 levähtää
-levähtää
 leväkkö
 levälleen
 levällään
@@ -35690,7 +35533,6 @@ lieska
 lieskauuni
 liesma
 liestyä
-liesu
 liesu
 liesuta
 liete
@@ -36229,7 +36071,6 @@ liivate
 liivatejauhe
 liivatelehti
 liivi
-liivi
 liivihame
 liiviläinen
 liivin kieli
@@ -36541,7 +36382,6 @@ lipas
 lipasto
 lipeinen
 liperi
-liperi
 liperit
 lipettiin
 lipevyys
@@ -36646,7 +36486,6 @@ lisenssi
 lisenssimaksu
 lisenssipakko
 lisenssisopimus
-lisko
 lisko
 liskolintu
 lista
@@ -36753,7 +36592,6 @@ litsa
 litsahdella
 litsahtaa
 litsi
-litsi
 litsiliitos
 litsiluumu
 littera
@@ -36856,7 +36694,6 @@ livahtaa
 livautella
 livauttaa
 live
-live
 livekala
 liverrellä
 liverrys
@@ -36887,7 +36724,6 @@ logaritminen
 logaritmitaulu
 logaritmitaulukko
 logiikka
-logistiikka
 logistiikka
 logistikko
 logo
@@ -37193,7 +37029,6 @@ longertaa
 longitudi
 lonka
 lonkero
-lonkero
 lonkeroinen
 lonkerojalkainen
 lonkka
@@ -37360,7 +37195,6 @@ loskainen
 loskakeli
 losottaa
 lossata
-lossata
 lossi
 lossiksi
 lossiliikenne
@@ -37375,7 +37209,6 @@ lotja
 lotkauttaa
 lotota
 lotrata
-lotta
 lotta
 lottajärjestö
 lottapuku
@@ -37806,11 +37639,9 @@ lunttaus
 luntti
 lunttilappu
 lunttu
-lunttu
 luo
 luoda
 luodata
-luode
 luode
 luodevesi
 luodevirtaus
@@ -37834,7 +37665,6 @@ luokittua
 luokitus
 luokitusjärjestelmä
 luokitusperuste
-luokka
 luokka
 luokkaero
 luokkahenki
@@ -37879,7 +37709,6 @@ luolasto
 luoma
 luomakunta
 luomapuut
-luomi
 luomi
 luomipuuteri
 luomishalu
@@ -38343,7 +38172,6 @@ luutia
 luutnantti
 luuton
 luuttu
-luuttu
 luutua
 luutuma
 luutuneisuus
@@ -38700,7 +38528,6 @@ lähimpää
 lähimuisti
 lähimyymälä
 lähin
-lähin
 lähinaapuri
 lähinnä
 lähinäkö
@@ -38843,7 +38670,6 @@ läjähtää
 läjäpäin
 läjäpäissä
 läjätä
-läjäys
 läjäys
 läjäyttää
 läkki
@@ -39069,7 +38895,6 @@ läntässä
 läntätä
 läpeensä
 läpi
-läpi
 läpiajo
 läpihuutojuttu
 läpikotainen
@@ -39116,8 +38941,6 @@ läpivienti
 läpivientiaukko
 läpivientieristin
 läpivientikohta
-läppä
-läppä
 läppä
 läppäsilta
 läppäventtiili
@@ -39181,7 +39004,6 @@ läträtä
 lätsä
 lätsähdys
 lätsähtää
-lätti
 lätti
 lättiläinen
 lätty
@@ -39321,14 +39143,12 @@ löperösti
 löpinä
 löpistä
 löpö
-löpö
 lörppö
 lörpötellä
 lörpöttely
 lörpöttää
 lörpötys
 lörtsy
-lössi
 lössi
 lötkö
 lötkötellä
@@ -39603,15 +39423,12 @@ maalaisväestö
 maalaji
 maalajite
 maalari
-maalari
 maalarinkelkka
 maalarinteippi
-maalata
 maalata
 maalauksellinen
 maalauksellisesti
 maalauksellisuus
-maalaus
 maalaus
 maalausjalusta
 maalausliike
@@ -39627,7 +39444,6 @@ maalaustyö
 maalauttaa
 maaleikkaus
 maalevintäinen
-maali
 maali
 maaliahne
 maaliaine
@@ -39654,7 +39470,6 @@ maalinpoistoaine
 maalintekijä
 maalipensseli
 maalipinta
-maalipinta
 maalipotku
 maalipurkki
 maalipylväs
@@ -39674,13 +39489,11 @@ maalitilanne
 maalitili
 maalitolppa
 maaliton
-maaliton
 maalituomari
 maalitykki
 maalitölkki
 maalivahti
 maaliverkko
-maaliviiva
 maaliviiva
 maaliväri
 maaliöljy
@@ -40233,7 +40046,6 @@ mailanen
 mailapoika
 mailasarja
 maileri
-maili
 maili
 main
 mainari
@@ -40794,7 +40606,6 @@ mammuttipetäjä
 mammuttitauti
 mamselli
 mana
-mana
 manaaja
 management
 manageri
@@ -40805,7 +40616,6 @@ manata
 manaus
 mandaatti
 mandaattialue
-mandariini
 mandariini
 mandariinikiina
 mandoliini
@@ -40968,7 +40778,6 @@ marihuana
 mariininsininen
 marimba
 marina
-marina
 marinadi
 marin kieli
 marinoida
@@ -41099,7 +40908,6 @@ marsalkansauva
 marsalkka
 marsilainen
 marsipaani
-marski
 marski
 marskimaa
 marskinlilja
@@ -41301,7 +41109,6 @@ materialisti
 materialistinen
 materialistisesti
 matikka
-matikka
 matinea
 matineanäytäntö
 matjeskastike
@@ -41464,7 +41271,6 @@ matta
 mattamusta
 mattapintainen
 mattaväri
-matti
 matti
 mattiasema
 mattimyöhäinen
@@ -42475,7 +42281,6 @@ mezzotinto
 mi
 miau
 midi
-midi
 midihame
 midiliitäntä
 midimuoti
@@ -43217,7 +43022,6 @@ modernisointi
 modernisoitua
 modernistaa
 modernisti
-modernisti
 modernistinen
 modernistua
 modernius
@@ -43277,7 +43081,6 @@ mojova
 moka
 mokata
 mokaus
-mokka
 mokka
 mokkaharja
 mokkainen
@@ -43554,7 +43357,6 @@ moniymmärteinen
 moniääninen
 monkua
 mono
-mono
 monofonia
 monofoninen
 monogaaminen
@@ -43710,7 +43512,6 @@ mormoni
 mormyska
 mormyskaonki
 moro
-moro
 moron
 morseaakkoset
 morsemerkki
@@ -43768,7 +43569,6 @@ motorisoida
 motorisoitua
 motoristi
 motskari
-motti
 motti
 mottimetsä
 mottitaistelu
@@ -44385,7 +44185,6 @@ murkina
 murkinoida
 murkinointi
 murkku
-murkku
 murkkuikäinen
 murmeli
 muro
@@ -44713,7 +44512,6 @@ mutruun
 mutsi
 mutta
 mutteri
-mutu
 mutu
 mutumenetelmä
 mutustaa
@@ -45231,7 +45029,6 @@ mäkäräinen
 mäkättää
 mäkätys
 mälli
-mälli
 mällätä
 mälsä
 mämmi
@@ -45249,7 +45046,6 @@ männynneulanen
 männynversosyöpä
 männänrengas
 männäntappi
-mäntti
 mäntti
 mänttipää
 mänty
@@ -45761,9 +45557,6 @@ nakerrus
 nakertaa
 nakkelu
 nakki
-nakki
-nakki
-nakki
 nakkikastike
 nakkikioski
 nakkimakkara
@@ -45797,7 +45590,6 @@ nalkuttaa
 nalkutus
 nalle
 nallekarhu
-nalli
 nalli
 nallikka
 nallipyssy
@@ -45969,11 +45761,9 @@ nasevoittaa
 nasevoitua
 nasevuus
 naskali
-naskali
 nassakka
 nasse
 nassikka
-nassu
 nassu
 nasta
 nastahammas
@@ -47118,7 +46908,6 @@ norahtaa
 nordisti
 nordistiikka
 norja
-norja
 norjalainen
 norjan kieli
 norjankielinen
@@ -47180,7 +46969,6 @@ normitus
 noro
 norppa
 norri
-norssi
 norssi
 norsu
 norsunluu
@@ -48763,7 +48551,6 @@ okkultismi
 okkultisti
 okkulttinen
 okra
-okra
 okrankeltainen
 okranväri
 okranvärinen
@@ -50249,7 +50036,6 @@ pahvirasia
 pahvitölkki
 pahviveitsi
 pai
-pai
 paidanhelma
 paidanhiha
 paidankaulus
@@ -50668,7 +50454,6 @@ pakastus
 pakastuskelmu
 pakastuspussi
 pakata
-pakata
 pakeilla
 pakeillaan
 pakeille
@@ -50703,7 +50488,6 @@ pakinoija
 pakinointi
 pakinoitsija
 pakista
-pakka
 pakka
 pakkaaja
 pakkaamo
@@ -50740,7 +50524,6 @@ pakkausmerkintä
 pakkauttaa
 pakkautua
 pakkeli
-pakki
 pakki
 pakkilaatikko
 pakko
@@ -51035,14 +50818,12 @@ palkollinen
 palladium
 pallas
 palle
-palle
 pallea
 palleahengitys
 palleaisku
 pallero
 palleroinen
 palleropilvi
-palli
 palli
 palliatiivinen
 pallinaama
@@ -51192,7 +50973,6 @@ palpakko
 palpoida
 palpointi
 palsa
-palsa
 palsami
 palsamoida
 palsamointi
@@ -51215,7 +50995,6 @@ palttina
 palttinasidoksinen
 palttinasidos
 palttoo
-palttu
 palttu
 palturi
 paluu
@@ -51277,7 +51056,6 @@ palveluvalmius
 palveluyhteiskunta
 palveluyritys
 palvi
-palvi
 palvikinkku
 palvikylki
 palviliha
@@ -51298,7 +51076,6 @@ pamista
 pampa
 pampattaa
 pamppailla
-pamppu
 pamppu
 pampula
 pamputtaa
@@ -51382,7 +51159,6 @@ pankkivelka
 pankkivirkailija
 pankkiyhteys
 pankko
-panna
 panna
 pannahinen
 pannajulistus
@@ -51687,7 +51463,6 @@ parasiitti
 parastaikaa
 parasympaattinen
 parata
-parata
 parataksi
 parataktinen
 paratiisi
@@ -51717,7 +51492,6 @@ parhaimmisto
 parhain
 parhaisto
 parhaiten
-pari
 pari
 pariairokaksikko
 pariaironelonen
@@ -51796,7 +51570,6 @@ parjaaja
 parjata
 parjaus
 parka
-parka
 parkaista
 parkaisu
 parketoida
@@ -51812,9 +51585,6 @@ parkitusaine
 parkkeerata
 parkkeeraus
 parkkeerausalue
-parkki
-parkki
-parkki
 parkki
 parkkiaine
 parkkihalli
@@ -51949,7 +51719,6 @@ parvekeviljely
 parvellinen
 parveutua
 parvi
-parvi
 parvikala
 parvisänky
 parvittain
@@ -51984,13 +51753,9 @@ pasmata
 passaaja
 passari
 passata
-passata
 passauttaa
 passeli
 passepartout
-passi
-passi
-passi
 passi
 passiivat
 passiivi
@@ -52041,7 +51806,6 @@ pasuttaa
 pasutus
 pasutusuuni
 pasuuna
-pata
 pata
 pataani
 patakinnas
@@ -52117,7 +51881,6 @@ patrioottinen
 patriotismi
 patronyymi
 patruuna
-patruuna
 patruunalipas
 patruunapesä
 patruunatehdas
@@ -52129,7 +51892,6 @@ patsastelu
 patteri
 patteristi
 patteristo
-patti
 patti
 pattijalka
 pattijalkainen
@@ -52266,7 +52028,6 @@ peikko
 peikonlehti
 peilailla
 peilata
-peilata
 peilaus
 peilautua
 peili
@@ -52312,7 +52073,6 @@ peitsari
 peitsata
 peitsaus
 peitsentaitto
-peitsi
 peitsi
 peitta
 peitta-aine
@@ -52670,7 +52430,6 @@ pentumaisesti
 pentumaisuus
 penätä
 peoni
-peoni
 pepino
 pepitaruudullinen
 pepitaruutu
@@ -52850,7 +52609,6 @@ perimyssota
 perimä
 perimätapa
 perimätieto
-perin
 perin
 perinataaliaika
 perinataalinen
@@ -53343,7 +53101,6 @@ peseytymistila
 peseytyä
 pesiintyä
 pesijä
-pesijä
 pesimä-
 pesimäaika
 pesimäalue
@@ -53800,8 +53557,6 @@ pihvikarja
 pihviliha
 pihvitomaatti
 pii
-pii
-pii
 piianpeili
 piidioksidi
 piiesine
@@ -53842,7 +53597,6 @@ piileksiä
 piileskelijä
 piileskellä
 piilevyys
-piilevä
 piilevä
 piilevämaa
 piilipuu
@@ -53911,14 +53665,12 @@ piip
 piipahdus
 piipahtaa
 piipata
-piipata
 piiperrys
 piipertää
 piipittää
 piipitys
 piipottaa
 piippalakki
-piippaus
 piippaus
 piippo
 piippolakki
@@ -53987,7 +53739,6 @@ piirtyä
 piirtäjä
 piirtää
 piiru
-piiru
 piirustaa
 piirustella
 piirustuksellinen
@@ -54004,7 +53755,6 @@ piirustustunti
 piisami
 piisamiturkki
 piisata
-piisi
 piisi
 piisiru
 piiska
@@ -54324,12 +54074,10 @@ pilkallisuus
 pilkanteko
 pilkata
 pilke
-pilke
 pilkintä
 pilkistellä
 pilkistys
 pilkistää
-pilkka
 pilkka
 pilkkaaja
 pilkkahinta
@@ -54580,7 +54328,6 @@ pioneerihenki
 pioneerijoukot
 pioneerikomppania
 pioneerityö
-pioni
 pioni
 pipana
 pipari
@@ -55418,7 +55165,6 @@ poka
 pokaali
 pokasaha
 pokata
-pokata
 pokeri
 pokerinaama
 pokerinaamainen
@@ -55541,7 +55287,6 @@ polkupyöränrengas
 polkusin
 polkuvene
 polla
-pollari
 pollari
 polle
 pollea
@@ -55687,7 +55432,6 @@ pomeranssiviina
 pomiloida
 pomilointi
 pommi
-pommi
 pommiattentaatti
 pommihyökkäys
 pommi-isku
@@ -55771,13 +55515,11 @@ ponttiliitos
 ponttoni
 ponttonisilta
 pooli
-pooli
 poolo
 poolokaulus
 poolopaita
 poolopusero
 pop
-popata
 popata
 popcorn
 popidoli
@@ -55823,7 +55565,6 @@ poranterä
 poranvarsi
 porapistiäinen
 porari
-porata
 porata
 poraus
 porausaukko
@@ -55874,7 +55615,6 @@ pornolehti
 pornoluola
 pornotähti
 pornovideo
-poro
 poro
 poroaita
 poroaitaus
@@ -56061,8 +55801,6 @@ poste restante -lähetys
 posteri
 posteriesitelmä
 posti
-posti
-posti
 postiauto
 postiennakko
 postiennakkolähetys
@@ -56179,7 +55917,6 @@ potkiaiset
 potkija
 potkiskella
 potku
-potku
 potkuhousut
 potkukelkka
 potkulauta
@@ -56196,9 +55933,7 @@ potretti
 potta
 pottatuoli
 potti
-potti
 pottitaimi
-pottu
 pottu
 pottuilla
 pottuilu
@@ -56227,7 +55962,6 @@ poutataivas
 poutia
 povaaja
 povailla
-povari
 povari
 povata
 povaus
@@ -57123,7 +56857,6 @@ pukkailla
 pukkari
 pukkaus
 pukki
-pukki
 pukkihyppy
 pukkimokka
 pukkinosturi
@@ -57159,8 +56892,6 @@ pulautus
 puleerata
 puleeraus
 puli
-puli
-puli
 pulikka
 pulikoida
 pulikointi
@@ -57176,7 +56907,6 @@ puliveivari
 puliveivata
 pulja
 pulju
-pulkka
 pulkka
 pulkkamäki
 pulkkosieni
@@ -57268,7 +56998,6 @@ pultinreikä
 pultittaa
 pultsari
 pulttaus
-pultti
 pultti
 pulttikiinnitteinen
 pulttikiinnitys
@@ -57444,9 +57173,7 @@ punk
 punka
 punkero
 punkka
-punkka
 punkkari
-punkki
 punkki
 punkku
 punkmusiikki
@@ -57484,11 +57211,7 @@ puntarpää
 puntata
 puntis
 puntti
-puntti
-puntti
 punttisali
-puola
-puola
 puola
 puolain
 puolalainen
@@ -58763,7 +58486,6 @@ pyykinpesukone
 pyykittää
 pyykitys
 pyykki
-pyykki
 pyykkikori
 pyykkilauta
 pyykkinaru
@@ -59454,7 +59176,6 @@ päässä
 päässälasku
 päästellä
 päästä
-päästä
 päästäinen
 päästää
 päästö
@@ -59615,8 +59336,6 @@ pökät
 pökätä
 pölhö
 pölinä
-pölinä
-pölistä
 pölistä
 pöljä
 pölkky
@@ -59868,7 +59587,6 @@ raajarikko
 raajarikkoinen
 raajavammainen
 raaka
-raaka
 raaka-
 raaka-aine
 raaka-ainelähde
@@ -59900,7 +59618,6 @@ raakapakaste
 raakapihvi
 raakapurje
 raakapuu
-raakapuu
 raakapuuro
 raakaraaste
 raakarauta
@@ -59909,7 +59626,6 @@ raakasilkki
 raakasilkkinen
 raakasokeri
 raakasose
-raakata
 raakata
 raakatislaus
 raakavedos
@@ -60376,8 +60092,6 @@ raisu
 raisusti
 raisuus
 raita
-raita
-raita
 raitainen
 raitakehrääjä
 raiteilla
@@ -60452,9 +60166,7 @@ raivotarjonta
 raivotauti
 raivotautinen
 raivotila
-raivotila
 raivuri
-raja
 raja
 raja-aita
 raja-alue
@@ -60748,13 +60460,10 @@ raksua
 raksuttaa
 raksutus
 rakuuna
-rakuuna
 rallatella
 rallattaa
 rallattelu
 rallatus
-ralli
-ralli
 ralli
 ralliajaja
 ralliajo
@@ -60981,7 +60690,6 @@ raparperikeitto
 raparperikiisseli
 raparperimehu
 raparperipiirakka
-rapata
 rapata
 rapauttaa
 rapautua
@@ -61291,7 +60999,6 @@ rattaanpyörä
 rattaat
 rattaisto
 ratti
-ratti
 rattijuoppo
 rattijuoppous
 rattijuopumus
@@ -61480,7 +61187,6 @@ rautu
 ravakasti
 ravakka
 ravata
-ravauttaa
 ravauttaa
 ravet
 ravi
@@ -61837,7 +61543,6 @@ rekisteröidä
 rekisteröinti
 rekisteröintikoje
 rekiviisu
-rekka
 rekka
 rekka-auto
 rekkakuski
@@ -62363,7 +62068,6 @@ riimittää
 riimitys
 riimitön
 riimu
-riimu
 riimukalenteri
 riimukirjain
 riimukirjoitus
@@ -62423,7 +62127,6 @@ riipuskoru
 riipustaa
 riiputtaa
 riiputus
-riisi
 riisi
 riisihiutale
 riisijauho
@@ -62529,7 +62232,6 @@ riittävyys
 riittävä
 riittävästi
 riittää
-riittää
 riiustaa
 riiustella
 riiustelu
@@ -62573,7 +62275,6 @@ rikkaruohoinen
 rikkatunkio
 rikkaus
 rikkeetön
-rikki
 rikki
 rikkibakteeri
 rikkidioksidi
@@ -62798,7 +62499,6 @@ rintavuus
 rintaääni
 rintsikat
 ripa
-ripa
 ripakinttu
 ripari
 ripaska
@@ -62859,11 +62559,9 @@ ripsahtaa
 ripsaus
 ripsauttaa
 ripsi
-ripsi
 ripsieläin
 ripsiharja
 ripsinauha
-ripsinen
 ripsinen
 ripsisidos
 ripsiväri
@@ -62884,7 +62582,6 @@ ripustin
 ripustus
 ripustuskoukku
 risa
-risa
 risahdella
 risahdus
 risahtaa
@@ -62899,7 +62596,6 @@ risiinikasvi
 risiiniöljy
 riskaabeli
 riskeerata
-riski
 riski
 riskialtis
 riskienhallinta
@@ -63322,8 +63018,6 @@ rombinen
 romina
 romista
 rommi
-rommi
-rommi
 rommipullo
 rommitoti
 rommiviina
@@ -63656,7 +63350,6 @@ rukkanen
 rukkaskäsi
 rukkaus
 rukkauttaa
-rukki
 rukki
 ruko
 rukoilevainen
@@ -64520,7 +64213,6 @@ rymytä
 rymähdys
 rymähtää
 rynkky
-rynkky
 rynkkyhame
 rynkyttää
 rynkytys
@@ -64894,7 +64586,6 @@ räpytys
 räpättäjä
 räpättää
 räpätä
-räpätä
 räpätäti
 räpäys
 räpäyttää
@@ -64948,7 +64639,6 @@ räyske
 räyskiä
 räyskyttää
 räyskytys
-räyskä
 räyskä
 räystäs
 räystäskorkeus
@@ -66299,10 +65989,8 @@ sarjoittaa
 sarjoittain
 sarjoitus
 sarka
-sarka
 sarkahousut
 sarkain
-sarkainen
 sarkainen
 sarkainkohta
 sarkainnäppäin
@@ -68013,7 +67701,6 @@ sietoalue
 sietokyky
 sietoraja
 sietä
-sietä
 sietämättömyys
 sietämättömästi
 sietämätön
@@ -68052,12 +67739,10 @@ sihahtaa
 sihaus
 sihauttaa
 sihdata
-sihdata
 sihinä
 sihistä
 sihtailla
 sihtailu
-sihtaus
 sihtaus
 sihteeri
 sihteerikkö
@@ -68065,7 +67750,6 @@ sihteerilintu
 sihteerinvirka
 sihteeristö
 sihteeriys
-sihti
 sihti
 šiialainen
 šiialaisuus
@@ -68077,7 +67761,6 @@ siihenastinen
 siika
 siilata
 siilautua
-siili
 siili
 siiliasema
 siilikaktus
@@ -68124,7 +67807,6 @@ siipisulka
 siipisuoni
 siipiveikko
 siipiväli
-siippa
 siippa
 siira
 siirapinmakea
@@ -68238,7 +67920,6 @@ siittiöpesäke
 siittola
 siittäjä
 siittää
-siitä
 siitä
 siiveke
 siivekäs
@@ -68774,7 +68455,6 @@ singota
 singulaari
 singulariteetti
 sini
-sini
 siniaalto
 sinibaretti
 sinihappo
@@ -68953,7 +68633,6 @@ sirahdella
 sirahdus
 sirahtaa
 sireeni
-sireeni
 sirinä
 siristellä
 siristely
@@ -68965,8 +68644,6 @@ sirittää
 siritys
 sirkeä
 sirkeäsilmäinen
-sirkka
-sirkka
 sirkka
 sirkkajuuri
 sirkkalehti
@@ -69590,7 +69267,6 @@ sivusauma
 sivuseikka
 sivuseinä
 sivussa
-sivusta
 sivusta
 sivustahyökkäys
 sivustakatsoja
@@ -70348,7 +70024,6 @@ sorata
 soratie
 soraus
 sorauttaa
-sorauttaa
 sorautua
 soraääni
 sorbetti
@@ -70937,7 +70612,6 @@ spatiaalisesti
 spatiaalisuus
 speedway
 speksi
-speksi
 spektaakkeli
 spektri
 spektrianalyysi
@@ -71114,7 +70788,6 @@ stepata
 steppaaja
 steppaus
 stepperi
-steppi
 steppi
 stereo
 stereofonia
@@ -71304,7 +70977,6 @@ suhahtelu
 suhailla
 suhari
 suhata
-suhaus
 suhaus
 suhauttaa
 suhdanne
@@ -71953,8 +71625,6 @@ suodin
 suodos
 suohaukka
 suoja
-suoja
-suoja
 suoja-aika
 suoja-aita
 suoja-alue
@@ -71965,7 +71635,6 @@ suojaeristys
 suojaikä
 suojailma
 suojain
-suojainen
 suojainen
 suojaisa
 suojaistutus
@@ -72432,7 +72101,6 @@ suppeutuma
 suppilo
 suppilokukka
 suppilovahvero
-suppo
 suppo
 supportiivinen
 suppositorio
@@ -73497,7 +73165,6 @@ syväväylä
 syväys
 syvään
 syy
-syy
 syydvesti
 syyhelmä
 syyhy
@@ -73991,7 +73658,6 @@ säkeenylitys
 säkeistö
 säkeistöjako
 säkeittäin
-säkeittäin
 säkene
 säkenöidä
 säkenöivä
@@ -74008,7 +73674,6 @@ säkkituoli
 säkkärä
 säksättää
 säksätys
-säkä
 säkä
 säkäkorkeus
 säkättää
@@ -74136,7 +73801,6 @@ säteittäin
 säteittäinen
 säteittäisesti
 säteri
-säteri
 säteritila
 säterivapaus
 sätkin
@@ -74246,7 +73910,6 @@ säälitellä
 säälittävä
 säälittää
 sääliväinen
-sääliä
 sääliä
 säällinen
 säällisesti
@@ -74462,7 +74125,6 @@ taara
 taas
 taasen
 taata
-taata
 taateli
 taatelipalmu
 taatto
@@ -74476,7 +74138,6 @@ tabloidi
 tabloidikoko
 tabloidikokoinen
 tabu
-tabu
 tabulaattori
 tabuloida
 tabulointi
@@ -74484,7 +74145,6 @@ tabulointinäppäin
 taco
 taconkuori
 tadikko
-tae
 tae
 taekwondo
 taemma
@@ -75156,7 +74816,6 @@ takinkääntäjä
 takinkääntö
 takintasku
 takka
-takka
 takkahuone
 takkasydän
 takkatikku
@@ -75256,7 +74915,6 @@ talismaani
 talitiainen
 talitintti
 talja
-talja
 taljajousi
 talkita
 talkkari
@@ -75276,7 +74934,6 @@ talkootyö
 talkoovoima
 talkooväki
 talk show
-talla
 talla
 tallaaja
 tallaantua
@@ -75590,14 +75247,11 @@ tammenlehtisalaatti
 tammenlehvä
 tammenterho
 tammi
-tammi
-tammi
 tammihiiri
 tammihuonekalu
 tammikehrääjä
 tammikuinen
 tammikuu
-tammilauta
 tammilauta
 tammilehto
 tammimetsikkö
@@ -75613,7 +75267,6 @@ tammitynnyri
 tammiviilu
 tammivyöhyke
 tammukka
-tampata
 tampata
 tamponi
 tamponoida
@@ -75650,10 +75303,8 @@ tanhuta
 tanhuvilla
 tanka
 tankata
-tankata
 tankea
 tankkailla
-tankkaus
 tankkaus
 tankkeri
 tankki
@@ -76361,7 +76012,6 @@ tatar
 tatarkasvi
 tatska
 tattari
-tattari
 tattarijauho
 tattaripuuro
 tattariryyni
@@ -76501,8 +76151,6 @@ tavaravalikoima
 tavaravaunu
 tavaravekseli
 tavata
-tavata
-tavata
 tavaton
 tavattomasti
 tavattomuus
@@ -76588,7 +76236,6 @@ teatteriura
 teatterivierailu
 teatteriväki
 teatteriyleisö
-teddy
 teddy
 teddykangas
 teddykarhu
@@ -76774,7 +76421,6 @@ teipata
 teippaus
 teippi
 teismi
-teisti
 teisti
 teistinen
 teititellä
@@ -77309,7 +76955,6 @@ termiinikauppa
 termiinikurssi
 termiinimarkkinat
 termiinisopimus
-termiitti
 termiitti
 terminaali
 terminaalihoito
@@ -78123,7 +77768,6 @@ tikkulaatikko
 tikkupulla
 tikkurasia
 tikkuri
-tikkuri
 tikkusuora
 tikku-ukko
 tikkuviina
@@ -78822,7 +78466,6 @@ toistamiseen
 toistasataa
 toistatuhatta
 toiste
-toiste
 toistella
 toisto
 toistoalennus
@@ -78875,7 +78518,6 @@ tokaji
 tokajinviini
 tokaluokkalainen
 toki
-tokka
 tokka
 tokko
 tokkura
@@ -79003,7 +78645,6 @@ topakasti
 topakka
 topakkuus
 topata
-topata
 topeliaaninen
 topless
 topless-ravintola
@@ -79024,7 +78665,6 @@ toppasokeri
 toppatakki
 toppatäkki
 toppaus
-toppi
 toppi
 toppis
 toppuutella
@@ -79790,7 +79430,6 @@ tukkisavotta
 tukkisuma
 tukkityö
 tukko
-tukko
 tukkoinen
 tukkoisesti
 tukkoisuus
@@ -79930,7 +79569,6 @@ tulkita
 tulkitsija
 tulkka
 tulkkaus
-tulkki
 tulkki
 tulkkisanakirja
 tulla
@@ -80707,7 +80345,6 @@ tupsullinen
 tupsupäinen
 tupsupää
 tupsuttaa
-tupsuttaa
 tupsutus
 tuputtaa
 tuputus
@@ -80800,8 +80437,6 @@ turkistarhuri
 turkistuote
 turkistuottaja
 turkki
-turkki
-turkki
 turkkilainen
 turkkiliivi
 turkkilo
@@ -80838,7 +80473,6 @@ turnipsi
 turnipsipelto
 turnyyri
 turo
-turpa
 turpa
 turpahöylä
 turpajouhi
@@ -81112,7 +80746,6 @@ tuttavukset
 tuttavuus
 tuttavuussuhde
 tutti
-tutti
 tuttipullo
 tuttu
 tuttuus
@@ -81252,7 +80885,6 @@ tuulonen
 tuultaa
 tuultua
 tuuma
-tuuma
 tuumailla
 tuumailu
 tuumainen
@@ -81274,7 +80906,6 @@ tuupertua
 tuuppia
 tuura
 tuuraaja
-tuurata
 tuurata
 tuuri
 tuurijuoppo
@@ -81378,7 +81009,6 @@ tykittäjä
 tykittää
 tykitys
 tykki
-tykki
 tykkilumi
 tykkimies
 tykkimyssy
@@ -81401,7 +81031,6 @@ tykönä
 tykötarpeet
 tyköä
 tyllerö
-tylli
 tylli
 tylliharso
 tyllihuntu
@@ -81616,7 +81245,6 @@ tyvekkyys
 tyvekäs
 tyven
 tyventyä
-tyvetä
 tyvetä
 tyveys
 tyvi
@@ -82219,7 +81847,6 @@ tähänastinen
 täi
 täikampa
 täikärpänen
-täkki
 täkki
 täky
 täkykala
@@ -84154,8 +83781,6 @@ vaapunta
 vaaputtaa
 vaaputus
 vaara
-vaara
-vaara-alue
 vaara-alue
 vaara-asutus
 vaarain
@@ -84175,7 +83800,6 @@ vaaratilanne
 vaaraton
 vaarattomuus
 vaaravyöhyke
-vaari
 vaari
 vaarinkaktus
 vaarinkalja
@@ -84676,9 +84300,7 @@ vakaumuksellisuus
 vakaumus
 vakaumussyy
 vakaus
-vakaus
 vakausleima
-vakauttaa
 vakauttaa
 vakauttamispolitiikka
 vakauttamissopimus
@@ -85353,12 +84975,9 @@ valssaaja
 valssaamo
 valssain
 valssata
-valssata
-valssaus
 valssaus
 valssauskone
 valssauslaitos
-valssi
 valssi
 valssikone
 valssilaitos
@@ -86054,7 +85673,6 @@ varhentua
 varho
 varhohöylä
 vari
-vari
 variaabeli
 variaatio
 variaatiolaskenta
@@ -86352,7 +85970,6 @@ varvukko
 varvusto
 varvuttua
 vasa
-vasa
 vasalli
 vasallimaa
 vasallius
@@ -86434,7 +86051,6 @@ vasoittaa
 vasoitus
 vasomotorinen
 vasonta
-vasta
 vasta
 vasta-
 vasta-aallokko
@@ -86958,7 +86574,6 @@ veikistelijä
 veikistellä
 veikistely
 veikka
-veikka
 veikkaaja
 veikkailla
 veikkailu
@@ -87012,7 +86627,6 @@ vek
 vekara
 vekata
 veke
-vekkari
 vekkari
 vekkaus
 vekki
@@ -87495,7 +87109,6 @@ veromerkki
 veroministeri
 veromuistutus
 veronalainen
-veronalainen
 veronalennus
 veronhuojennus
 veronkanto
@@ -87945,8 +87558,6 @@ vetistely
 vetistyä
 vetistää
 vetkutella
-veto
-veto
 veto
 vetoaisa
 vetoaja
@@ -88483,7 +88094,6 @@ vihlaista
 vihlaisu
 vihloa
 vihma
-vihma
 vihmainen
 vihmin
 vihmoa
@@ -88648,7 +88258,6 @@ viilajauhe
 viilanpuru
 viilapenkki
 viilari
-viilari
 viilata
 viilaus
 viileke
@@ -88741,7 +88350,6 @@ viinaton
 viinatrokari
 viineri
 viini
-viini
 viinialue
 viinietikka
 viinihappo
@@ -88831,7 +88439,6 @@ viisastuttaa
 viisaudenhammas
 viisaus
 viisi
-viisi
 viisihenkinen
 viisijakoinen
 viisikanta
@@ -88911,7 +88518,6 @@ viitseliäs
 viitseliäästi
 viitsiä
 viitta
-viitta
 viittailla
 viittauksellinen
 viittauksenomainen
@@ -88963,7 +88569,6 @@ viivästyskorko
 viivästyttää
 viivästyä
 viivästää
-vika
 vika
 vika-
 vikaantua
@@ -89110,7 +88715,6 @@ vilkutella
 vilkuttaa
 vilkutus
 villa
-villa
 villa-
 villahiki
 villahousut
@@ -89251,7 +88855,6 @@ vinha
 vinhasti
 vinjetti
 vinka
-vinka
 vinkaista
 vinkaisu
 vinkata
@@ -89311,7 +88914,6 @@ vintata
 vintilä
 vintiö
 vintti
-vintti
 vinttikaivo
 vinttikamari
 vinttikoira
@@ -89333,8 +88935,6 @@ violisti
 VIP
 vipajaa
 vipata
-vipata
-vipata
 vipattaa
 vipatus
 vipellys
@@ -89347,8 +88947,6 @@ vippa
 vippailla
 vippaskonsti
 vippaus
-vippi
-vippi
 vippi
 vippikassa
 vipu
@@ -89677,7 +89275,6 @@ virutus
 virvaliekki
 virvatuli
 virveli
-virveli
 virvelöidä
 virvelöinti
 virvoitella
@@ -89704,7 +89301,6 @@ viserrellä
 viserrys
 visertäjä
 visertää
-visiiri
 visiiri
 visiitti
 visiittikortti
@@ -89905,7 +89501,6 @@ vohvelikangas
 vohvelikeksi
 vohvelipannu
 vohvelirauta
-voi
 voi
 voida
 voide
@@ -90149,7 +89744,6 @@ vollottaa
 vollotus
 voltata
 voltti
-voltti
 volttihyppy
 volttilähtö
 volttimittari
@@ -90288,7 +89882,6 @@ vuokraviljelijä
 vuokraviljelmä
 vuokrayksiö
 vuoksi
-vuoksi
 vuoksiaalto
 vuolaasti
 vuolas
@@ -90325,7 +89918,6 @@ vuorenseinä
 vuorenseinämä
 vuorenvarma
 vuorenvarmasti
-vuori
 vuori
 vuori-ilmasto
 vuori-insinööri
@@ -91703,7 +91295,6 @@ yksiköllinen
 yksilappeinen
 yksilapsinen
 yksilevyinen
-yksilevyinen
 yksilevykytkin
 yksilö
 yksilöidä
@@ -92910,7 +92501,6 @@ zulu
 äimistellä
 äimistyä
 äimä
-äimä
 äimäneula
 äimäruoho
 äiskä
@@ -93136,7 +92726,6 @@ zulu
 äsken
 äskettäin
 äskettäinen
-ässä
 ässä
 ässävika
 äveriäisyys
