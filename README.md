@@ -1,0 +1,2 @@
+# everyfinnishword
+Every Finnish word
