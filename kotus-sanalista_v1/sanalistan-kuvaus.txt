@@ -1,0 +1,1007 @@
+KOTIMAISTEN KIELTEN TUTKIMUSKESKUKSEN NYKYSUOMEN SANALISTA
+
+
+Kotimaisten kielten tutkimuskeskus julkaisee taivutustiedoin täydennetyn
+nykysuomen sanalistan. Sanalista ei ole tyhjentävä tai auktoritatiivinen
+luettelo suomen kielen sanoista, vaan sen on tarkoitus mm. toimia
+apuvälineenä suomen kieltä käsittelevien tietokoneohjelmien ja
+suomenkielisten käyttöliittymien kehitystyössä.
+
+Sanalista julkaistaan GNU LGPL -lisenssillä (Lesser General Public
+License). Lisenssiteksti on luettavissa osoitteessa 
+http://www.gnu.org/licenses/lgpl.html.
+
+Sanalistan laajuus on 94110 sanatietuetta. Sanalista on XML-muodossa ja
+merkistönä on UTF-8. Listaan voidaan tehdä myöhemmin muutoksia, jolloin
+listan versionumero muuttuu.
+
+
+SANATIETUEIDEN ELEMENTIT
+
+<st></st> sanatietue
+<s></s> sana
+<hn></hn> homonyyminumero
+<t></t> taivutustiedot
+<tn></tn> taivutusnumero
+<av></av> astevaihtelutiedot
+
+
+SANOJEN TAIVUTUS
+
+Sanan taivutus on osoitettu sanalistassa numerolla (esim. <tn>72</tn>)
+ja sanaan liittyvä astevaihtelu kirjaimella (esim. <av>A</av>). Numerot
+ja kirjaimet viittaavat jäljempänä esitettyihin mallisarjoihin
+Taivutustyypit ja Astevaihtelutyypit, joissa taivutus ja astevaihtelu on
+esitetty vastaavan numeron ja kirjaimen kohdalla mallisanojen avulla.
+Jos sana taipuu kahdella eri tavalla, sillä on kaksi taivutusnumeroa.
+
+Taivutukseen liittyvää lisätietoa on annettu t-elementin ja av-elementin
+attribuuttien avulla. Elementillä t voi olla attribuutti "taivutus".
+Elementillä av voi olla attribuutti "astevaihtelu".
+
+taivutus-attribuutin arvot:
+harvinainen - t-elementin mukainen taivutus on harvinainen
+mahdollinen - t-elementin mukainen taivutus on mahdollinen
+yksikössä - sana taipuu tn-elementin mukaisesti yksikössä
+monikossa - sana taipuu tn-elementin mukaisesti monikossa
+
+astevaihtelu-attribuutin arvo:
+valinnainen – sana voidaan taivuttaa astevaihtelullisena tai ilman
+astevaihtelua
+
+Yhdyssanoihin ei ole yleensä merkitty taivutusnumeroa, jos perusosa on
+listassa itsenäisenä sanana. Taivutustieto on kuitenkin merkitty niihin
+yhdyssanoihin, joiden perusosa on homonyymi (esim. iltakuusi 27 ja
+joulukuusi 24). Yhdysnomineihin on merkitty taivutusnumero silloin, kun
+on haluttu osoittaa, että sanan alkuosa taipuu (kuten hienosokeri :
+hienonsokerin, taivutusnumero 51) tai jää taipumatta (isoäiti :isoäidin,
+taivutusnumero 50). Taipumattomat tai vaillinaisesti taipuvat sanat on
+merkitty numerolla 99. Pronominien jäljessä ei ole taivutusnumeroa,
+koska niille ei voida esittää mallitaivutusta. Lukusanojen taivutus ei
+aina selviä suoraan mallisanan avulla (esim. lukusanat seitsemän,
+kahdeksan ja yhdeksän taipuvat niin kuin nominatiivit olisivat seitsemä,
+kahdeksa ja yhdeksä, ja kymmenen taipuu niin kuin nominatiivi olisi
+kymmen). Lukusanatyyppien kaksitoista, kaksikymmentä, kaksisataa ja
+kaksituhatta taivutusta ei ole osoitettu.
+
+
+TAIVUTUSTYYPIT
+==============
+
+
+Nominit
+
+Esimerkkimuodot ovat yksikön nominatiivi, genetiivi, partitiivi ja
+illatiivi sekä monikon nominatiivi, genetiivi, partitiivi ja illatiivi.
+
+1
+valo
+valon
+valoa
+valoon
+valot
+valojen
+valoja
+valoihin
+
+2
+palvelu
+palvelun
+palvelua
+palveluun
+palvelut
+palvelujen palveluiden palveluitten
+palveluja palveluita
+palveluihin
+
+3
+valtio
+valtion
+valtiota
+valtioon
+valtiot
+valtioiden valtioitten
+valtioita
+valtioihin
+
+4
+laatikko
+laatikon
+laatikkoa
+laatikkoon
+laatikot
+laatikkojen laatikoiden laatikoitten
+laatikkoja laatikoita
+laatikkoihin laatikoihin
+5
+risti
+ristin
+ristiä
+ristiin
+ristit
+ristien
+ristejä
+risteihin
+
+6
+paperi
+paperin
+paperia
+paperiin
+paperit
+paperien papereiden papereitten
+papereja papereita
+papereihin
+7
+ovi
+oven
+ovea
+oveen
+ovet
+ovien
+ovia
+oviin
+
+8
+nalle
+nallen
+nallea
+nalleen
+nallet
+nallejen (nallein)
+nalleja
+nalleihin
+
+9
+kala
+kalan
+kalaa
+kalaan
+kalat
+kalojen (kalain)
+kaloja
+kaloihin
+
+10
+koira
+koiran
+koiraa
+koiraan
+koirat
+koirien (koirain)
+koiria
+koiriin
+
+11
+omena
+omenan
+omenaa
+omenaan
+omenat
+omenien omenoiden omenoitten (omenojen) (omenain)
+omenia omenoita (omenoja)
+omeniin omenoihin
+
+12
+kulkija
+kulkijan
+kulkijaa
+kulkijaan
+kulkijat
+kulkijoiden kulkijoitten (kulkijain)
+kulkijoita
+kulkijoihin
+
+13
+katiska
+katiskan
+katiskaa
+katiskaan
+katiskat
+katiskoiden katiskoitten katiskojen (katiskain)
+katiskoita katiskoja
+katiskoihin
+
+14
+solakka
+solakan
+solakkaa
+solakkaan
+solakat
+solakoiden solakoitten solakkojen (solakkain)
+solakoita solakkoja
+solakkoihin solakoihin
+15
+korkea
+korkean
+korkeaa korkeata
+korkeaan
+korkeat
+korkeiden korkeitten (korkeain)
+korkeita
+korkeisiin korkeihin
+
+16
+vanhempi
+vanhemman
+vanhempaa
+vanhempaan
+vanhemmat
+vanhempien (vanhempain)
+vanhempia
+vanhempiin
+
+17
+vapaa
+vapaan
+vapaata
+vapaaseen
+vapaat
+vapaiden vapaitten
+vapaita
+vapaisiin (vapaihin)
+
+18
+maa
+maan
+maata
+maahan
+maat
+maiden maitten
+maita
+maihin
+
+19
+suo
+suon
+suota
+suohon
+suot
+soiden soitten
+soita
+soihin
+
+20
+filee
+fileen
+fileetä
+fileehen fileeseen
+fileet
+fileiden fileitten
+fileitä
+fileihin fileisiin
+
+21
+rosé
+rosén
+roséta
+roséhen
+rosét
+roséiden
+roséita
+roséihin
+
+22
+parfait
+parfait'n
+parfait'ta
+parfait'hen
+parfait't
+parfait'iden
+parfait'ita
+parfait'ihin
+
+23
+tiili
+tiilen
+tiiltä
+tiileen
+tiilet
+tiilien
+tiiliä
+tiiliin
+
+24
+uni
+unen
+unta
+uneen
+unet
+unien unten
+unia
+uniin
+
+25
+toimi
+toimen
+tointa toimea
+toimeen
+toimet
+toimien tointen
+toimia
+toimiin
+
+26
+pieni
+pienen
+pientä
+pieneen
+pienet
+pienten pienien
+pieniä
+pieniin
+
+27
+käsi
+käden
+kättä
+käteen
+kädet
+käsien (kätten)
+käsiä
+käsiin
+
+28
+kynsi
+kynnen
+kynttä
+kynteen
+kynnet
+kynsien (kyntten)
+kynsiä
+kynsiin
+
+29
+lapsi
+lapsen
+lasta
+lapseen
+lapset
+lasten lapsien
+lapsia
+lapsiin
+
+30
+veitsi
+veitsen
+veistä
+veitseen
+veitset
+veitsien (veisten)
+veitsiä
+veitsiin
+
+31
+kaksi
+kahden
+kahta
+kahteen
+kahdet
+kaksien
+kaksia
+kaksiin
+
+32
+sisar
+sisaren
+sisarta
+sisareen
+sisaret
+sisarien sisarten
+sisaria
+sisariin
+
+33
+kytkin
+kytkimen
+kytkintä
+kytkimeen
+kytkimet
+kytkimien kytkinten
+kytkimiä
+kytkimiin
+
+34
+onneton
+onnettoman
+onnetonta
+onnettomaan
+onnettomat
+onnettomien (onnetonten)
+onnettomia
+onnettomiin
+
+35
+lämmin
+lämpimän
+lämmintä
+lämpimään
+lämpimät
+lämpimien (lämpimäin)
+lämpimiä
+lämpimiin
+
+36
+sisin
+sisimmän
+sisintä
+sisimpään
+sisimmät
+sisimpien sisinten (sisimpäin)
+sisimpiä
+sisimpiin
+
+37
+vasen
+vasemman
+vasenta (vasempaa)
+vasempaan
+vasemmat
+vasempien vasenten (vasempain)
+vasempia
+vasempiin
+
+38
+nainen
+naisen
+naista
+naiseen
+naiset
+naisten naisien
+naisia
+naisiin
+
+39
+vastaus
+vastauksen
+vastausta
+vastaukseen
+vastaukset
+vastausten vastauksien
+vastauksia
+vastauksiin
+
+40
+kalleus
+kalleuden
+kalleutta
+kalleuteen
+kalleudet
+kalleuksien
+kalleuksia
+kalleuksiin
+
+41
+vieras
+vieraan
+vierasta
+vieraaseen
+vieraat
+vieraiden vieraitten
+vieraita
+vieraisiin (vieraihin)
+
+42
+mies
+miehen
+miestä
+mieheen
+miehet
+miesten miehien
+miehiä
+miehiin
+
+43
+ohut
+ohuen
+ohutta
+ohueen
+ohuet
+ohuiden ohuitten
+ohuita
+ohuisiin ohuihin
+
+44
+kevät
+kevään
+kevättä
+kevääseen
+keväät
+keväiden keväitten
+keväitä
+keväisiin (keväihin)
+
+45
+kahdeksas
+kahdeksannen
+kahdeksatta
+kahdeksanteen
+kahdeksannet
+kahdeksansien
+kahdeksansia
+kahdeksansiin
+
+46
+tuhat
+tuhannen
+tuhatta
+tuhanteen
+tuhannet
+tuhansien (tuhanten)
+tuhansia
+tuhansiin
+
+47
+kuollut
+kuolleen
+kuollutta
+kuolleeseen
+kuolleet
+kuolleiden kuolleitten
+kuolleita
+kuolleisiin kuolleihin
+
+48
+hame
+hameen
+hametta
+hameeseen
+hameet
+hameiden hameitten
+hameita
+hameisiin hameihin
+
+49
+askel
+askelen
+askelta
+(askeleen)
+askelet
+askelien askelten
+askelia
+askeliin
+askele
+askeleen
+askeletta
+askeleeseen
+askeleet
+askeleiden askeleitten
+askeleita
+askeleisiin askeleihin
+
+Yhdysnominit
+
+50
+isoäiti
+isoäidin
+isoäitiä
+isoäitiin
+isoäidit
+isoäitien
+isoäitejä
+isoäiteihin
+
+51
+nuoripari
+nuorenparin
+nuortaparia
+nuoreenpariin
+nuoretparit
+nuortenparien nuorienparien
+nuoriapareja
+nuoriinpareihin
+
+Verbit Esimerkkimuodot ovat 1. infinitiivi, aktiivin indikatiivin
+preesensin yksikön ensimmäinen persoona, aktiivin indikatiivin
+imperfektin kolmas persoona, aktiivin konditionaalin, potentiaalin ja
+imperatiivin preesensin yksikön kolmas persoona sekä aktiivin 2.
+partisiippi ja passiivin imperfekti.
+
+52
+sanoa
+sanon
+sanoi
+sanoisi
+sanonee
+sanokoon
+sanonut
+sanottiin
+
+53
+muistaa
+muistan
+muisti
+muistaisi
+muistanee
+muistakoon
+muistanut
+muistettiin
+
+54
+huutaa
+huudan
+huusi
+huutaisi
+huutanee
+huutakoon
+huutanut
+huudettiin
+
+55
+soutaa
+soudan
+souti sousi
+soutaisi
+soutanee
+soutakoon
+soutanut
+soudettiin
+
+56
+kaivaa
+kaivan
+kaivoi
+kaivaisi
+kaivanee
+kaivakoon
+kaivanut
+kaivettiin
+
+57
+saartaa
+saarran
+saarsi saartoi
+saartaisi
+saartanee
+saartakoon
+saartanut
+saarrettiin
+
+58
+laskea
+lasken
+laski
+laskisi
+laskenee
+laskekoon
+laskenut
+laskettiin
+
+59
+tuntea
+tunnen
+tunsi
+tuntisi
+tuntenee
+tuntekoon
+tuntenut
+tunnettiin
+
+60
+lähteä
+lähden
+lähti (läksi)
+lähtisi
+lähtenee
+lähteköön
+lähtenyt
+lähdettiin
+
+61
+sallia
+sallin
+salli
+sallisi
+sallinee
+sallikoon
+sallinut
+sallittiin
+62
+voida
+voin
+voi
+voisi
+voinee
+voikoon
+voinut
+voitiin
+
+63
+saada
+saan
+sai
+saisi
+saanee
+saakoon
+saanut
+saatiin
+
+64
+juoda
+juon
+joi
+joisi
+juonee
+juokoon
+juonut
+juotiin
+
+65
+käydä
+käyn
+kävi
+kävisi
+käynee
+käyköön
+käynyt
+käytiin
+
+66
+rohkaista
+rohkaisen
+rohkaisi
+rohkaisisi
+rohkaissee
+rohkaiskoon
+rohkaissut
+rohkaistiin
+
+67
+tulla
+tulen
+tuli
+tulisi
+tullee
+tulkoon
+tullut
+tultiin
+
+68
+tupakoida
+tupakoin (tupakoitsen)
+tupakoi (tupakoitsi)
+tupakoisi (tupakoitsisi)
+tupakoinee 
+tupakoikoon
+tupakoinut
+tupakoitiin
+
+69
+valita
+valitsen
+valitsi
+valitsisi
+valinnee
+valitkoon
+valinnut
+valittiin
+
+70
+juosta
+juoksen
+juoksi
+juoksisi
+juossee
+juoskoon
+juossut
+juostiin
+
+71
+nähdä
+näen
+näki
+näkisi
+nähnee
+nähköön
+nähnyt
+nähtiin
+
+72
+vanheta
+vanhenen
+vanheni
+vanhenisi
+vanhennee
+vanhetkoon
+vanhennut
+vanhettiin
+
+73
+salata
+salaan
+salasi
+salaisi
+salannee
+salatkoon
+salannut
+salattiin
+
+74
+katketa
+katkean
+katkesi
+katkeaisi (katkeisi)
+katkennee
+katketkoon
+katkennut
+katkettiin
+
+75
+selvitä
+selviän
+selvisi
+selviäisi
+selvinnee
+selvitköön
+selvinnyt
+selvittiin
+
+76
+taitaa
+taidan
+taisi
+taitaisi
+taitanee tainnee
+taitakoon
+tainnut taitanut
+taidettiin
+
+77 (vaillinaisesti taipuvia verbejä; vain joitakin kolmannen persoonan
+muotoja)
+kumajaa   
+kumaji
+kumajaisi
+
+78 (vaillinaisesti taipuvia verbejä; vain joitakin kolmannen persoonan
+muotoja)
+kaikaa 
+kaikaisi
+                                 
+99 = Sana on taipumaton tai vaillinaisesti taipuva.
+
+
+
+
+ASTEVAIHTELUTYYPIT
+==================
+
+
+Astevaihtelua osoittavien kirjainkoodien merkitykset ja esimerkkejä
+astevaihtelutyypeistä
+
+
+A
+
+kk : k
+takki : takin
+liikkua : liikun
+
+k : kk
+hake : hakkeen
+pakata : pakkaan
+
+
+B
+
+pp : p
+kaappi : kaapin
+hyppiä : hypin
+
+p : pp
+opas : oppaan
+napata : nappaan
+
+
+C
+
+tt : t
+tyttö : tytön
+saattaa : saatan
+
+t : tt
+kate : katteen
+mitata : mittaan
+
+
+D
+
+k : –
+reikä : reiän
+hakea : haen
+
+– : k
+aie : aikeen
+maata : makaan
+
+
+E
+
+p : v
+sopu : sovun
+viipyä : viivyn
+
+v : p
+taive : taipeen
+levätä : lepään
+
+
+F
+
+t : d
+satu : sadun
+pitää : pidän
+
+d : t
+keidas : keitaan
+kohdata : kohtaan
+
+
+G
+
+nk : ng [ k :  ]
+aurinko : auringon
+tunkea : tungen
+
+ng : nk [   :  k]
+rengas : renkaan
+hangata : hankaan
+
+
+H
+
+mp : mm
+kumpi : kumman
+empiä : emmin
+
+mm : mp
+lumme : lumpeen
+kammata : kampaan
+
+
+I
+
+lt : ll
+ilta : illan
+yltää : yllän
+
+ll : lt
+sivellin : siveltimen
+vallata : valtaan
+
+
+J
+
+nt : nn
+hento : hennon
+myöntää : myönnän
+
+nn : nt
+vanne : vanteen
+rynnätä : ryntään
+
+
+K
+rt : rr
+virta : virran
+kertoa : kerron
+
+rr : rt
+porras : portaan
+verrata : vertaan
+
+
+L
+
+k : j
+arki : arjen
+särkeä : särjen
+
+j : k
+hylje : hylkeen
+rohjeta : rohkenen
+
+
+M
+
+k : v
+suku : suvun
